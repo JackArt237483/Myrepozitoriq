@@ -1,0 +1,18 @@
+.wrapper{
+    width: 360px;
+    height: 55px;
+    border-radius: 23px;
+    background: rgba(37, 182, 37, 0.397);
+    margin: 0 auto;
+    padding-left: 45px;
+    padding-top: 34px;
+}
+
+.passport-check{
+    border-radius: 23px;
+    color: black;
+}
+
+.passport-input{
+    border-radius: 12px ;
+}
