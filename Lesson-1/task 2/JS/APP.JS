@@ -1,6 +1,6 @@
 function animation(args, elem) { 
 	var $ = {
-		radius  : 250, 
+		radius : 250, 
 		speed :20 
 	}
 	var f = 0;

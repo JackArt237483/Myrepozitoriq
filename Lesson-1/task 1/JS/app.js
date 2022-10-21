@@ -3,7 +3,7 @@
  const passportCheck = document.querySelector(".passport-Check");
  const passportResult = document.querySelector(".passport-Result");
  
- const passportRegExp =/^\d{0,14}$/;
+ const passportRegExp =/^[0,1]\d{13}$/;
  
  passportCheck.addEventListener("click", () => {
    if (passportRegExp.test(passportInput.value)) {
